@@ -1,0 +1,9 @@
+/home/rafa/QT/build-Threads_Runnable-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/Threads_Runnable.dir
+/home/rafa/QT/build-Threads_Runnable-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/rafa/QT/build-Threads_Runnable-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/rafa/QT/build-Threads_Runnable-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/rafa/QT/build-Threads_Runnable-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/rafa/QT/build-Threads_Runnable-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/rafa/QT/build-Threads_Runnable-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/rafa/QT/build-Threads_Runnable-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/Threads_Runnable_autogen_timestamp_deps.dir
+/home/rafa/QT/build-Threads_Runnable-Desktop_Qt_6_5_0_GCC_64bit-Debug/CMakeFiles/Threads_Runnable_autogen.dir
