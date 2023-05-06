@@ -1,9 +1,0 @@
-# ninja log v5
-0	297	1683112584938234133	Calculator_autogen/timestamp	5b70349f53aff6d5
-0	297	1683112584938234133	Calculator_autogen/mocs_compilation.cpp	5b70349f53aff6d5
-0	297	1683112584938234133	/home/rafa/QT/build-Calculator-Desktop_Qt_6_5_0_GCC_64bit-Debug/Calculator_autogen/timestamp	5b70349f53aff6d5
-0	297	1683112584938234133	/home/rafa/QT/build-Calculator-Desktop_Qt_6_5_0_GCC_64bit-Debug/Calculator_autogen/mocs_compilation.cpp	5b70349f53aff6d5
-298	1716	1683112586362244657	CMakeFiles/Calculator.dir/Calculator_autogen/mocs_compilation.cpp.o	cfdd4f4b225050a9
-297	1733	1683112586378244776	CMakeFiles/Calculator.dir/main.cpp.o	de62ea2352d2fc87
-298	2395	1683112587042249773	CMakeFiles/Calculator.dir/mainwindow.cpp.o	a5872eb0af33751f
-2395	2665	1683112587310251828	Calculator	94fabc26c605bbd0
